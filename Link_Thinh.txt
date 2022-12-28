@@ -1,0 +1,39 @@
+https://github.com/bitcraze/crazyflie-lib-python/blob/master/examples/swarm/swarmSequence.py
+
+https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/user-guides/sbs_swarm_interface/
+
+
+
+
+
+
+
+
+
+
+
+
+Huu-Thinh updates:
+
+1. Qualisys package for python:   https://qualisys.github.io/qualisys_python_sdk/index.html
+
+
+2. Swarm interface for multiple drones control: https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/user-guides/sbs_swarm_interface/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
